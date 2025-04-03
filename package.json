@@ -1,0 +1,15 @@
+{
+  "name": "moiz-bhai",
+  "version": "1.0.0",
+  "description": "Task 1 ",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Mashood baig",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1"
+  }
+}
